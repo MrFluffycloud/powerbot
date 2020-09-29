@@ -1,0 +1,40 @@
+{
+  "name": "VerifyBot",
+  "version": "1.0.0",
+  "description": "VerifyBot",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonzoBonham/ServerStatusBot.git"
+  },
+  "author": "Developer-Bots",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BonzoBonham/ServerStatusBot/issues"
+  },
+  "homepage": "https://github.com/BonzoBonham/ServerStatusBot#readme",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "gamedig": "^2.0.14",
+    "http": "0.0.1-security",
+    "imageapi.js": "^1.0.3",
+    "moment": "^2.26.0",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "request": "^2.88.0",
+    "require": "^2.4.20",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "string-length": "^4.0.1",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^3.1.1",
+    "ytdl-core-discord": "^1.2.0"
+  }
+}
